@@ -21,7 +21,7 @@
     "@angular/platform-browser": "~11.2.7",
     "@angular/platform-browser-dynamic": "~11.2.7",
     "@angular/router": "~11.2.7",
-    "@ngneat/until-destroy": "^8.0.4",
+    "@ngneat/until-destroy": "^8.1.4",
     "ngx-color-picker": "^11.0.0",
     "ngx-event-modifiers": "^1.0.1",
     "ngx-take-until-destroy": "^5.4.0",
